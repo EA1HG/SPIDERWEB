@@ -29,7 +29,7 @@ For this application, I've used:
 - **ng3k.com** [ng3k.com](http://ng3k.com/misc/adxo.html) I used to get information about "Announced Dx Operations". Thanks to Bill/NG3K !!!
 - **silso** [sidc.be/silso](https://sidc.be/silso/) used to show propagation trend in "Chart & stats" section
 
-You can find my web site at [http://ea4rcr.duckdns.org](http://ea4rcr.duckdns.org)
+You can find my web site at [http://ea4rcr.duckdns.org](http://ea4rcr.duckdns.org:5000)
 
 ### Changelog
 see file ["CHANGELOG.md"](docs/CHANGELOG.md)
