@@ -289,7 +289,8 @@ In ```scripts``` directory launch:
 
 **desktop**
 
-<img src="docs/images/01_desktop_main.png" width="400"/>
+![Captura de pantalla 2023-07-06 192858](https://github.com/EA1HG/SPIDERWEB/assets/6223547/719b141f-dad3-4333-a22c-75fa0380912f)
+
 <img src="docs/images/02_desktop_plot.png" width="400"/>
 
 
