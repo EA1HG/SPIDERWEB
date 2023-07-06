@@ -11,8 +11,8 @@
 
 
 - **Release:** v2.4.2
-- **Author:** Corrado Gerbaldo - [IU1BOW](https://www.qrz.com/db/IU1BOW)
-- **Mail:** <corrado.gerbaldo@gmail.com>
+- **Author:** Ismael - [EA1HG](https://www.qrz.com/db/EA1HG)
+- **Mail:** <EA1HG@EA1HG.ES>
 - **Licensing:** Gpl V3.0 see [LICENSE](LICENSE) file.
 - **Languages:** This application is written in Python 3.11/flask,Javascript and HTML
 
@@ -29,7 +29,7 @@ For this application, I've used:
 - **ng3k.com** [ng3k.com](http://ng3k.com/misc/adxo.html) I used to get information about "Announced Dx Operations". Thanks to Bill/NG3K !!!
 - **silso** [sidc.be/silso](https://sidc.be/silso/) used to show propagation trend in "Chart & stats" section
 
-You can find my web site at [https://www.iu1bow.it](https://www.i1bow.it)
+You can find my web site at [http://ea4rcr.duckdns.org](http://ea4rcr.duckdns.org)
 
 ### Changelog
 see file ["CHANGELOG.md"](docs/CHANGELOG.md)
